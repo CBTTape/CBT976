@@ -1,0 +1,10 @@
+2025-04-14 00:38:17.445328 - Received CBT.V508.FILE976.PDS from FILE976.XMI 
+2025-04-14 00:38:17.446247 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:38:17.446329 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE01
+2025-04-14 00:38:17.446392 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE02
+2025-04-14 00:38:17.446464 - Found @FILE976.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/@FILE976
+2025-04-14 00:38:17.446524 - Found USERMOD.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USERMOD
+2025-04-14 00:38:17.446608 - Found USYNC.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC
+2025-04-14 00:38:17.446685 - Found USYNC$.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$
+2025-04-14 00:38:17.446757 - Found USYNC$$.jcl (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$$
+2025-04-14 00:38:17.446824 - Found USYNC#.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC#
