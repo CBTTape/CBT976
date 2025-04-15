@@ -1,10 +1,10 @@
-2025-04-15 07:15:41.035165 - Received CBT.V508.FILE976.PDS from FILE976.XMI 
-2025-04-15 07:15:41.036130 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$$#DATE
-2025-04-15 07:15:41.036270 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE01
-2025-04-15 07:15:41.036419 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE02
-2025-04-15 07:15:41.036521 - Found @FILE976.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/@FILE976
-2025-04-15 07:15:41.036637 - Found USERMOD.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USERMOD
-2025-04-15 07:15:41.036862 - Found USYNC.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC
-2025-04-15 07:15:41.037014 - Found USYNC$.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$
-2025-04-15 07:15:41.037153 - Found USYNC$$.jcl (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$$
-2025-04-15 07:15:41.037287 - Found USYNC#.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC#
+2025-04-16 01:55:08.730528 - Received CBT.V508.FILE976.PDS from FILE976.XMI 
+2025-04-16 01:55:08.731279 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:55:08.731332 - Found $$NOTE01.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE01
+2025-04-16 01:55:08.731372 - Found $$NOTE02.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/$$NOTE02
+2025-04-16 01:55:08.731413 - Found @FILE976.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/@FILE976
+2025-04-16 01:55:08.731453 - Found USERMOD.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USERMOD
+2025-04-16 01:55:08.731512 - Found USYNC.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC
+2025-04-16 01:55:08.731553 - Found USYNC$.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$
+2025-04-16 01:55:08.731591 - Found USYNC$$.jcl (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC$$
+2025-04-16 01:55:08.731630 - Found USYNC#.txt (text/plain) in CBT.V508.FILE976.PDS, moved to PDS/USYNC#
